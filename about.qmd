@@ -1,6 +1,6 @@
 ---
 title: "MIAO Siyu"
-image: profile.jpg
+image: photo.jpg
 about:
   template: jolla
   links:
@@ -43,17 +43,17 @@ about:
 - [5]	苗丝雨, 肖扬. 就地城镇化能否缓解流动人口的健康不平等研究——基于2014年全国流动人口调查数据[J]. 城市发展研究, 2021, 28(02): 32-39+116.（CSSCI, CSCD）
 - [6]	苗丝雨，张希，肖扬，区域一体化视角下城镇开发边界划定方法探究——以苏州为例[J]. 城市与区域规划研究,2023. 2023, 15(2): 197-211. (CSSCI)
 
-## Newspaper
+### Newspaper
 - [1]	Xiao Yang, Miao Siyu. Promoting Social Integration Can Improve the Mental Health of the Migrant Population [N]. China Population News, 2022.8.21(3) (in Chinese)
 
-## Monograph
+### Monograph
 - [1]	Xiao Yang, Miao Siyu. The Mental Health of the Migrant Population under the Influence of Social Relations [M]. Tongji University Press, 2019 (in Chinese)
 
-## Patents
+### Patents
 - [1]	Xiao Yang, Miao Siyu. A Method for Simulating and Predicting the Urban Development Boundary in Flow Space, Patent No.: ZL 2021 1 0773849.2. (in Chinese)
 - [2]	[2] Xiao Yang, Miao Siyu. A Method for Simulating and Predicting the Urban Development Boundary for Detailed Categories (Substantive Examination). (in Chinese)
 
-## Academic Conferences
+### Academic Conferences
 - [1]	Presentation at 2017 the 11th International Association for China Planning (IACP) Conference 
 - [2]	Presentation at the 2017 Chinese Urban Geography Heritage and Innovation Academic Symposium. (in Chinese)
 - [3]	Presentation at 2017 the 14th International Congress of Asian Planning School Association (APSA) 
