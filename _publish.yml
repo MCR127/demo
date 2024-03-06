@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: 3639aee2-4169-4c3b-b718-fba84ef6a458
+      url: 'https://mcr127mcr.netlify.app'
