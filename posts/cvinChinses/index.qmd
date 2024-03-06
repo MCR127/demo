@@ -1,0 +1,77 @@
+---
+title: "CV"
+author: "MCR"
+date: "2024-03-06"
+categories: [news]
+---
+## Education Background
+
+- **Tongji University**
+  - Bachelor in Urban and Rural Planning (2012.09 - 2016.07)
+  - Master in Urban and Rural Planning (2016.09 - 2019.07)
+- **The University of Hong Kong**
+  - Master of Science in Urban Planning (Exchange, 2018.01 - 2018.06)
+- **Tongji University**
+  - PhD in Urban and Rural Planning (2019.09 - 2024.03)
+
+## Research Achievements
+
+### English Papers
+
+1. Xiao Y, Miao S, Sarkar C, et al. "Exploring the Impacts of Housing Condition on Migrants’ Mental Health in Nanxiang, Shanghai: A Structural Equation Modelling Approach." International Journal of Environmental Research and Public Health, 2018, 15(2): 225. (SCI&SSCI, IF 4.6, JCR Q1, citation 28)
+2. Xiao Y, Miao S, Sarkar C, et al. "Do neighborhood ties matter for residents' mental health in affordable housing: Evidence from Guangzhou, China." Cities, 2020, 100: 102666. (SSCI, IF 6.7, JCR Q1, citation 21)
+3. Miao S, Xiao Y. "Does acculturation really matter for internal migrants’ health? Evidence from eight cities in China." Social Science & Medicine, 2020, 260: 113210. (SCI&SSCI, IF 5.4, JCR Q1, citation 17)
+4. Xiao Y, Miao S, Sarkar C. "Social ties, spatial migration paradigm, and mental health among two generations of migrants in China." Population, Space and Place, 2021, 27(2): e2389. (SSCI, IF2.4, JCR Q1, citation 8)
+5. Xiao Y, Miao S, Zhang Y, et al. "Exploring the Health Effects of Neighborhood Greenness on Lilong Residents in Shanghai." Urban Forestry & Urban Greening, 2021. (SSCI&SCI, IF6.4, JCR Q1, citation 13)
+6. Xiao Y, Wang Y, Miao S, et al. "Assessing polycentric urban development in Shanghai, China with detailed passive mobile phone data." Environment and Planning B: Urban Analytics and City Science, 2021. (SSCI, IF3.5, JCR Q2, citation 14)
+7. Xiao Y, Miao S, Zhang Y, et al. "Exploring the associations between neighborhood greenness and level of physical activity of older adults in Shanghai." Journal of Transport & Health, 2022, 24: 101312. (SSCI, IF 3.6, JCR Q2, citation 16)
+8. Xiao Y, Chen S, Miao S, et al. "Exploring the Mediating Effect of Physical Activities on Built Environment and Obesity for Elderly People: Evidence From Shanghai, China." Frontiers in Public Health, 2022, 10. (SSCI&SCI, IF5.2, JCR Q1, citation 11)
+9. Miao S, Xiao Y, Tang L. "Urban Growth Simulation Based on a Multi-Dimension Classification of Growth Types: Implications for China's Territory Spatial Planning." Land, 2022. (SSCI, IF 3.9, JCR Q2, citation 0)
+10. Xiao Y, Wang H, Miao S, et al. "A complex network analysis of local and non-local tourist flows in Beijing through mobile phone data." Transactions in Planning and Urban Research, 2023, 2(2-3): 217-235.
+
+### Chinese Papers
+
+1. Miao Siyu, Li Zhigang, Xiao Yang. "Study on the Mechanism Impact of Social Connections on the Psychological Health of Affordable Housing Residents." Urban and Regional Planning Studies, 2018, 10(04): 59-72. (CSSCI)
+2. Xiao Yang, Miao Siyu, Gao Lulu, et al. "Study on the Mechanism of Housing Conditions Affecting the Mental Health of Migrants: A Case Study of Nanxiang Town in Shanghai." Urban Architecture, 2018(5).
+3. Jia Yiru, Zhang Ze, Miao Siyu, et al. "Analysis of Affordable Housing Policies in Global Cities and Implications for Shanghai." International Urban Planning, 2019, 34(02): 70-77. (CSSCI)
+4. Miao Siyu, Xiao Yang. "Study on the Impact of Social Integration and Sense of Belonging Achievements
+
+### English Papers
+
+1. Xiao Y, Miao S, Sarkar C, et al. "Exploring the Impacts of Housing Condition on Migrants’ Mental Health in Nanxiang, Shanghai: A Structural Equation Modelling Approach." International Journal of Environmental Research and Public Health, 2018, 15(2): 225.
+2. Xiao Y, Miao S, Sarkar C, et al. "Do neighborhood ties matter for residents' mental health in affordable housing: Evidence from Guangzhou, China." Cities, 2020, 100: 102666.
+3. Miao S, Xiao Y. "Does acculturation really matter for internal migrants’ health? Evidence from eight cities in China." Social Science & Medicine, 2020, 260: 113210.
+4. Xiao Y, Miao S, Sarkar C. "Social ties, spatial migration paradigm, and mental health among two generations of migrants in China." Population, Space and Place, 2021, 27(2): e2389.
+5. Xiao Y, Miao S, Zhang Y, et al. "Exploring the Health Effects of Neighborhood Greenness on Lilong Residents in Shanghai." Urban Forestry & Urban Greening, 2021.
+6. Xiao Y, Wang Y, Miao S, et al. "Assessing polycentric urban development in Shanghai, China with detailed passive mobile phone data." Environment and Planning B: Urban Analytics and City Science, 2021.
+7. Xiao Y, Miao S, Zhang Y, et al. "Exploring the associations between neighborhood greenness and level of physical activity of older adults in Shanghai." Journal of Transport & Health, 2022, 24: 101312.
+8. Xiao Y, Chen S, Miao S, et al. "Exploring the Mediating Effect of Physical Activities on Built Environment and Obesity for Elderly People: Evidence From Shanghai, China." Frontiers in Public Health, 2022.
+9. Miao S, Xiao Y, Tang L. "Urban Growth Simulation Based on a Multi-Dimension Classification of Growth Types: Implications for China's Territory Spatial Planning." Land, 2022.
+
+### Chinese Papers
+
+1. Miao Siyu, Li Zhigang, Xiao Yang. "Study on the Mechanism Impact of Social Connections on the Psychological Health of Affordable Housing Residents." Urban and Regional Planning Studies, 2018, 10(04).
+2. Xiao Yang, Miao Siyu, Gao Lulu, et al. "Study on the Mechanism of Housing Conditions Affecting the Mental Health of Migrants: A Case Study of Nanxiang Town in Shanghai." Urban Architecture, 2018(5).
+3. Jia Yiru, Zhang Ze, Miao Siyu, et al. "Analysis of Affordable Housing Policies in Global Cities and Implications for Shanghai." International Urban Planning, 2019, 34(02).
+4. Miao Siyu, Xiao Yang. "Study on the Impact of Social Integration and Sense of Belonging on the Mental Health of the Migrant Population—Based on the 2014 National Migrant Population Dynamic Monitoring Data." Social Development Studies, 2020, 7(02).
+5. Miao Siyu, Xiao Yang. "Can Local Urbanization Alleviate Health Inequalities of the Migrant Population? —Based on the 2014 National Migrant Population Survey Data." Urban Development Studies, 2021, 28(02).
+
+## Awards
+
+- 2018 Zhiye Elite Scholarship, Tongji University
+- 2018 Student International Exchange Scholarship, Tongji University
+- 2021 Outstanding PhD Scholarship, Tongji University 
+
+## Skills and Certificates
+
+- 2013 CET-6
+- 2017 IELTS: 7.0
+- 2022 Completion Certificate of the 2nd National Training Class on Geographic Analysis Model 
+
+## Academic Service
+
+- Reviewer for journals: Journal of Cleaner Production, Journal of Environmental Psychology, Transactions in Planning and Urban Research, Frontiers in Public Health, BMC Geriatrics, BMC Public Health, Land, Women's Studies International Forum
+
+![](thumbnail.jpg)
+
+Since this post doesn't specify an explicit `image`, the first image in the post will be used in the listing page of posts.

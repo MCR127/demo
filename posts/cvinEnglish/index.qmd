@@ -1,0 +1,66 @@
+---
+title: "简历"
+author: "MCR"
+date: "2024-03-06"
+categories: [news]
+---
+## 教育背景
+
+- **同济大学**
+  - 城乡规划学（本科）(2012.09 - 2016.07)
+  - 城乡规划学（硕士）(2016.09 - 2019.07)
+- **香港大学**
+  - Master of Science in Urban Planning (Exchange, 2018.01 - 2018.06)
+- **同济大学**
+  - 城乡规划学（博士）(2019.09 - 2024.03)
+
+## 科研成果
+
+### 英文论文
+
+1. Xiao Y, Miao S, Sarkar C, et al. Exploring the Impacts of Housing Condition on Migrants’ Mental Health in Nanxiang, Shanghai: A Structural Equation Modelling Approach. International Journal of Environmental Research and Public Health, 2018, 15(2): 225.
+2. Xiao Y, Miao S, Sarkar C, et al. Do neighborhood ties matter for residents' mental health in affordable housing: Evidence from Guangzhou, China. Cities, 2020, 100: 102666.
+3. Miao S, Xiao Y. Does acculturation matter for internal migrants’ health? Evidence from eight cities in China. Social Science & Medicine, 2020, 260: 113210.
+4. Xiao Y, Miao S, Sarkar C. Social ties, spatial migration paradigm, and mental health among two generations of migrants in China. Population, Space and Place, 2021, 27(2): e2389.
+5. Xiao Y, Miao S, Zhang Y, et al. Exploring the Health Effects of Neighborhood Greenness on Lilong Residents in Shanghai. Urban Forestry & Urban Greening, 2021.
+6. Xiao Y, Wang Y, Miao S, et al. Assessing polycentric urban development in Shanghai, China with detailed passive mobile phone data. Environment and Planning B: Urban Analytics and City Science, 2021.
+7. Xiao Y, Miao S, Zhang Y, et al. Exploring the associations between neighborhood greenness and level of physical activity of older adults in Shanghai. Journal of Transport & Health, 2022, 24: 101312.
+8. Xiao Y, Chen S, Miao S, et al. Exploring the Mediating Effect of Physical Activities on Built Environment and Obesity for Elderly People: Evidence From Shanghai, China. Frontiers in Public Health, 2022.
+9. Miao S, Xiao Y, Tang L. Urban Growth Simulation Based on a Multi-Dimension Classification of Growth Types: Implications for China's Territory Spatial Planning. Land, 2022.
+
+### 中文论文
+
+1. 苗丝雨, 李志刚, 肖扬. 社会联系对保障房居民心理健康的机制影响研究. 城市与区域规划研究, 2018, 10(04).
+2. 肖扬, 苗丝雨, 高璐璐, 等. 住房条件对于外来人口的心理健康影响机制研究:以上海南翔镇为例. 城市建筑, 2018(5).
+3. 贾宜如, 张泽, 苗丝雨, 等. 全球城市的可负担住房政策分析及对上海的启示. 国际城市规划, 2019, 34(02).
+4. 苗丝雨, 肖扬. 社会融合和归属感对流动人口心理健康的影响研究——基于2014年全国流动人口动态监测数据. 社会发展研究, 2020, 7(02).
+5. 苗丝雨, 肖扬. 就地城镇化能否缓解流动人口的健康不平等研究——基于2014年全国流动人口调查数据. 城市发展研究, 2021, 28(02).
+
+## 获奖经历
+
+- 2018年度 同济大学中交二公院志业精英奖学金
+- 2018年 同济大学学生国际及港澳台交流奖学金
+- 2021年度 同济大学优秀博士奖学金
+
+## 技能证书
+
+- 2013年 英语6级
+- 2017年 雅思 7.0
+- 2022年 第二届国产地理分析模型培训班结业证书
+
+## 学术兼职
+
+- 《Journal of Cleaner Production》、《Journal of Environmental Psychology》、《Transactions in Planning and Urban Research》等期刊的审稿人
+
+## 项目实践
+
+- 研究报告：成都国际大都市研究报告项目、上海万科未来城市概念研究报告等
+- 修建性详细规划：铜仁市“一带双核”修建性详细规划
+- 控制性详细规划：奉贤区FXS7-0501控规调整项目
+- 战略规划：孟屯河谷景区规划、宁波春晓特色小镇规划等
+
+
+
+![](thumbnail.jpg)
+
+Since this post doesn't specify an explicit `image`, the first image in the post will be used in the listing page of posts.

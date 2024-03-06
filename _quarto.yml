@@ -16,8 +16,6 @@ website:
     pinned: true
     search: true
     left:
-      - text: "HOME"
-        file: home.qmd
       - text: "CV"
         file: about.qmd
     right:
@@ -37,9 +35,6 @@ website:
       background: light
       contents:
         - index.qmd
-        - techs.qmd
-        - papers.qmd
-        - books.qmd
     - title: "others"
       contents:
         - references.qmd
