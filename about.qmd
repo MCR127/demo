@@ -1,19 +1,82 @@
 ---
-title: "About"
+title: "MIAO Siyu"
 image: profile.jpg
 about:
   template: jolla
   links:
-    - icon: twitter
-      text: Twitter
-      href: https://twitter.com
-    - icon: linkedin
-      text: LinkedIn
-      href: https://linkedin.com
-    - icon: github
-      text: Github
-      href: https://github.com
+    - icon: google
+      text: google
+      href: https://scholar.google.com.hk/citations?user=Y0Zo2lUAAAAJ&hl=zh-CN
 
 ---
+## Education Background
 
+- **Tongji University**  
+  - Bachelor in Urban and Rural Planning (2012.09 - 2016.07)
+  - Master in Urban and Rural Planning (2016.09 - 2019.07)
+  - Ph.D. in Urban and Rural Planning (2019.09 - 2024.03)
+- **The University of Hong Kong**  
+  - Master of Science in Urban Planning (Exchange, 2018.01 - 2018.06)
+
+## Research Achievements
+
+### English Papers
+
+- [1]	Xiao Y, Miao S, Sarkar C, et al. Exploring the Impacts of Housing Condition on Migrants’ Mental Health in Nanxiang, Shanghai: A Structural Equation Modelling Approach[J]. International journal of environmental research and public health, 2018, 15(2): 225. （SCI&SSCI, IF 4.6, JCR Q1,citation 28）
+- [2]	Xiao Y, Miao S, Sarkar C, et al. Do neighborhood ties matter for residents' mental health in affordable housing: Evidence from Guangzhou, China[J]. Cities, 2020, 100: 102666. （SSCI, IF 6.7, JCR Q1, citation 21）
+- [3]	Miao S, Xiao Y. Does acculturation really matter for internal migrants’ health? Evidence from eight cities in China[J]. Social Science & Medicine, 2020, 260: 113210. （SCI&SSCI, IF 5.4, JCR Q1, citation 17）
+- [4]	Xiao Y, Miao S, Sarkar C. Social ties, spatial migration paradigm, and mental health among two generations of migrants in China[J]. Population, Space and Place, 2021, 27(2): e2389. （SSCI, IF2.4 JCR Q1, citation 8）
+- [5]	Xiao Y, Miao S, Zhang Y, et al. Exploring the Health Effects of Neighborhood Greenness on Lilong Residents in Shanghai[J]. Urban Forestry & Urban Greening, 2021: 127383. （SSCI&SCI, IF6.4, JCR Q1, citation 13）
+- [6]	Xiao Y, Wang Y, Miao S, et al. Assessing polycentric urban development in Shanghai, China, with detailed passive mobile phone data[J]. Environment and Planning B: Urban Analytics and City Science, 2021: 2399808320982306. （SSCI, IF3.5, JCR Q2, citation 14）
+- [7]	Xiao Y, Miao S, Zhang Y, et al. Exploring the associations between neighborhood greenness and level of physical activity of older adults in shanghai[J]. Journal of Transport & Health, 2022, 24: 101312. （SSCI, IF 3.6, JCR Q2, citation 16）
+- [8]	Xiao Y, Chen S, Miao S, et al. Exploring the Mediating Effect of Physical Activities on Built Environment and Obesity for Elderly People: Evidence From Shanghai, China[J]. Frontiers in Public Health, 2022, 10. （SSCI&SCI, IF5.2, JCR Q1, citation 11）
+- [9]	Miao S, Xiao Y, Tang L. Urban Growth Simulation Based on a Multi-Dimension Classification of Growth Types: Implications for China's Territory Spatial Planning[J]. Land, 2022: 2210. （SSCI, IF 3.9, JCR Q2, citation 0）
+- [10]	Xiao Y, Wang H, Miao S, et al. A complex network analysis of local and non-local tourist flows in Beijing through mobile phone data[J]. Transactions in Planning and Urban Research, 2023, 2(2-3): 217-235. 
+
+
+### Chinese Papers
+
+- [1]	苗丝雨, 李志刚, 肖扬. 社会联系对保障房居民心理健康的机制影响研究[J]. 城市与区域规划研究, 2018, 10(04): 59-72 (CSSCI)
+- [2]	肖扬, 苗丝雨, 高璐璐, 等. 住房条件对于外来人口的心理健康影响机制研究:以上海南翔镇为例[J]. 城市建筑, 2018(5): 6-11.
+- [3]	贾宜如, 张泽, 苗丝雨, 等. 全球城市的可负担住房政策分析及对上海的启示[J]. 国际城市规划, 2019, 34(02): 70-77.(CSSCI)
+- [4]	苗丝雨, 肖扬. 社会融合和归属感对流动人口心理健康的影响研究——基于2014年全国流动人口动态监测数据[J]. 社会发展研究, 2020, 7(02): 110-127+244. (CSSCI)
+- [5]	苗丝雨, 肖扬. 就地城镇化能否缓解流动人口的健康不平等研究——基于2014年全国流动人口调查数据[J]. 城市发展研究, 2021, 28(02): 32-39+116.（CSSCI, CSCD）
+- [6]	苗丝雨，张希，肖扬，区域一体化视角下城镇开发边界划定方法探究——以苏州为例[J]. 城市与区域规划研究,2023. 2023, 15(2): 197-211. (CSSCI)
+
+## Newspaper
+- [1]	Xiao Yang, Miao Siyu. Promoting Social Integration Can Improve the Mental Health of the Migrant Population [N]. China Population News, 2022.8.21(3) (in Chinese)
+
+## Monograph
+- [1]	Xiao Yang, Miao Siyu. The Mental Health of the Migrant Population under the Influence of Social Relations [M]. Tongji University Press, 2019 (in Chinese)
+
+## Patents
+- [1]	Xiao Yang, Miao Siyu. A Method for Simulating and Predicting the Urban Development Boundary in Flow Space, Patent No.: ZL 2021 1 0773849.2. (in Chinese)
+- [2]	[2] Xiao Yang, Miao Siyu. A Method for Simulating and Predicting the Urban Development Boundary for Detailed Categories (Substantive Examination). (in Chinese)
+
+## Academic Conferences
+- [1]	Presentation at 2017 the 11th International Association for China Planning (IACP) Conference 
+- [2]	Presentation at the 2017 Chinese Urban Geography Heritage and Innovation Academic Symposium. (in Chinese)
+- [3]	Presentation at 2017 the 14th International Congress of Asian Planning School Association (APSA) 
+- [4]	Presentation at the 2021 China National Planning Conference on Territorial Space. (in Chinese)
+- [5]	Presentation at 2022 the 5th World Planning Schools Congress and 16th Asian Planning Schools Association Congress 
+- [6]	Poster at the 2022 China Human Geography Academic Annual Conference. (in Chinese)
+
+## Research Participation
+- [1]	National Social Science Fund Project "The Impact Mechanism and Countermeasures of Community Cohesion on the Mental Health of the Migrant Population" (Project No.: 19BSH035; Principal Investigator: Xiao Yang). 
+
+## Awards
+
+- Zhiye Elite Scholarship, Tongji University (2018)
+- Student International Exchange Scholarship, Tongji University (2018)
+- Outstanding PhD Scholarship, Tongji University (2021)
+
+## Skills and Certificates
+
+- CET-6 (2013)
+- IELTS: 7.0 (2017)
+- Completion Certificate of the 2nd National Training Class on Geographic Analysis Model (2022)
+
+## Academic Service
+
+- Reviewer for journals such as Journal of Cleaner Production, Journal of Environmental Psychology, Transactions in Planning and Urban Research, Frontiers in Public Health, and others.
 About this blog
