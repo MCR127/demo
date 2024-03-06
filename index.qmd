@@ -1,5 +1,5 @@
 ---
-title: "demo"
+title: "MCR is on the way to earning a Ph.D. in Urban Planning."
 listing:
   contents: posts
   sort: "date desc"

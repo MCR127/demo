@@ -2,18 +2,51 @@ project:
   type: website
 
 website:
-  title: "MIAO Siyu"
+  title: "MCR"
+  bread-crumbs: true
+  back-to-top-navigation: true
+  page-footer: "© MCR 2024"
+  reader-mode: true
+  repo-url: https://github.com/MCR127/demo
+  repo-actions: [edit, issue]
+
   navbar:
+    background: info
+    foreground: light
+    pinned: true
+    search: true
+    left:
+      - text: "HOME"
+        file: home.qmd
+      - text: "CV"
+        file: about.qmd
     right:
       - about.qmd
+      - icon: amd
+        href: https://www.amd.com/en.html
       - icon: github
-        href: https://github.com/
+        href: https://github.com/MCR127
       - icon: twitter
-        href: https://twitter.com
+        href: https://twitter.com/MCR127127
+      - icon: google
+        href: https://scholar.google.com.hk/citations?user=Y0Zo2lUAAAAJ&hl=zh-CN     
+  sidebar:
+    - title: "CV"
+      style: docked
+      type: dark
+      background: light
+      contents:
+        - index.qmd
+        - techs.qmd
+        - papers.qmd
+        - books.qmd
+    - title: "others"
+      contents:
+        - references.qmd
+        # navigation items
+
 format:
   html:
     theme: cosmo
     css: styles.css
-
-
 
